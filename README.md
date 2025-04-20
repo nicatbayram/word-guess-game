@@ -57,4 +57,13 @@ word-guessing-game/
 - Improve UI/UX design.
 
 ## ScreenShots
+<img width="400" alt="111" src="https://github.com/user-attachments/assets/e047649f-2493-4583-9804-8daea0b70452" />
+<img width="400" alt="222" src="https://github.com/user-attachments/assets/1a53c012-5f3a-4185-a3a5-6d10fef92eff" />
+
+
+
+
+
+
+
 
